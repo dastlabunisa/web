@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newscollection>
+  <news>
+    <title>Avviso 1</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 2</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 3</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 4</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+  	<title>Avviso 5</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 6</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 7</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+  <news>
+    <title>Avviso 8</title>
+    <author>Giuseppe Polese</author>
+    <date>18-01-2019</date>
+    <description>Avviso di prova</description>
+    <img>./img/unisainsegna.jpg</img>
+  </news>
+</newscollection>
